@@ -10,6 +10,15 @@ from game.settings import *
 class AlphaBetaPruner(object):
     """Alpha-Beta Pruning algorithm."""
 
+
+
+
+
+
+
+
+
+
     def __init__(self, mutex, duration, pieces, first_player, second_player):
         self.mutex = mutex
         self.board = 0
